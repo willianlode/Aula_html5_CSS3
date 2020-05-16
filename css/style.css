@@ -4,3 +4,10 @@ body{
 h2{
     color: rgb(14, 59, 14)
 }
+div{
+    margin-left: 200px;
+}
+nav{
+    margin-left: 100px;
+    font-family: cursive;
+}
